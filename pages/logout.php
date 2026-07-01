@@ -1,0 +1,1 @@
+<?php redirect_page("index.php?logout=logout");?>
